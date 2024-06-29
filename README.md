@@ -36,6 +36,11 @@ See here for the full [Project Management Plan](<Project Management plan - Influ
 * CDC_Lab_Tests.xlsx -> Counts of influenza laboratory test results by state (survey). Source of this data set is [CDC (Fluview)(<https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html>) [Download data set](<https://images.careerfoundry.com/public/courses/data-immersion/A1-A2_Influenza_Project/CDC_Lab_Tests.xlsx>)
 * NIS_Flu_Shot_Survey_reduced.xlsx -> Survey of flu shot rates in children. Source of this data set is [CDC](<https://www.cdc.gov/vaccines/imz-managers/nis/about.html>) [Download data set](<https://images.careerfoundry.com/public/courses/data-immersion/A1-A2_Influenza_Project/NIS_Flu_Shot_Survey_reduced.xlsx>)
 
+## Tools
+The tools used to work out this analysis:
+* Excel
+* Tableau
+
 ## Relevance and limitation of the data sets
 Below some relevance and limitations of the Population data set as an example:
 ### Relevance
