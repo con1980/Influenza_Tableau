@@ -60,6 +60,7 @@ Before starting any Analysis we need to scan the data for its integrity. Below a
 
 ### Find and eliminate duplicates
 Duplicates are idnetified by producing a pivot table for each year by state and county. After applying the "delete duplicates" function in excel the pivot table to indentify the duplicates was refreshed to check if all duplicates were eliminated.
+3278 duplicates were found and eliminated.
 In this example below the "Census_population_transformed_202101" data set is shown.</br >
 ![Duplicates](<screenshots/eliminate duplicates.png>)</br >
 
