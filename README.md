@@ -66,7 +66,7 @@ In this example below the "Census_population_transformed_202101" data set is sho
 ### Data integration
 After cleaning and integrity checks are excecuted its time to ontegrate the two cleaned data sets "Influenza deaths" and "Population" with eachother so they can be used in further Analysis and visualizations.
 Before the integration can be executed a data mapping has to be done for evaluating on which variable to combine the two data sets.
-![Data integration](<screenshots/Data integration.png>)</br >
+![Data integration](<screenshots/Data integrity.png>)</br >
 To look at the fully integrated data set see here [fully integrated data set 'Influenza deaths' and 'Population'](</1.7_Task_Data Integration.xlsx>)
 
 # 5. Analysis
@@ -93,7 +93,6 @@ to 0 and smaller than the significance level Alpha of 0.05 we can conclude that 
 null hypothesis. In other words we can say with a confidence of 100% that elderly have a much
 higher chance of dying from Influenza than other age groups.
 ![t-test implementation](<screenshots/t-test implementation.png>)</br >
-
 
 
 
