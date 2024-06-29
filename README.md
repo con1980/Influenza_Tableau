@@ -79,7 +79,7 @@ For clarification purposes some visualizations are added.
 ![Histogram 65+ Influenza deaths](<screenshots/Histogram 65+ Influenza deaths.png>)</br >
 
 ## Correlations
-Below the correlation factor between 'Influenza deaths 65+' and 'Population of 65+'. it shows the strenth ot weakness of the correlation between these two variables.
+Below the correlation factor between 'Influenza deaths 65+' and 'Population of 65+'. it shows the strenth/weakness of the correlation between these two variables.
 A correlation coefficient which is close to 1 means that the data has a very strong correlation to eachother.
 
 ![Correlation](<screenshots/Correlation.png>)</br >
@@ -94,6 +94,21 @@ null hypothesis. In other words we can say with a confidence of 100% that elderl
 higher chance of dying from Influenza than other age groups.
 ![t-test implementation](<screenshots/t-test implementation.png>)</br >
 
+# 6. Tableau visualizations
+The final presentation to stakeholders is conducted in Tableau in a story telling format with textual descriptions and visualizations.</br >
+Below some examples of my Tableau presentation. For the full version please see here [Final presentation - Influenza staff planning](https://public.tableau.com/app/profile/constantin.melachrinos/viz/2_9StorytellingwithdataPresentations/2_9StorytellingwithdataPresentations#1)</br >
+
+Explanation and proof of the Hypothesis
+![Hypothesis](<screenshots/Tableau - Hypothesis.png>)</br >
+
+Geographica Analysis - heat map Influenza deaths</br >
+![Geographical Analysis](<screenshots/Tableau - Geographical Analysis.png>)</br >
+
+Line chart - Season of Influenza</br >
+![line chart](<screenshots/Tableau - line chart influenza season.png>)</br >
+
+# 7. Conclusion and recommendation
+![conclusion](<screenshots/Tableau - conclusion.png>)</br >
 
 
 
