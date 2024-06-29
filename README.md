@@ -75,7 +75,7 @@ In this section we will dive deeper in the descriptive analysis. The main reason
 test the hypothesis on its significance and confirmation of its valuation. In the table below some variables are shown which are the basis to start testing the hypothesis.
 Our Hypothesis is: Elderly have a higher chance of dying from Influenza (If 65+ years old then higher chance of dying from Influenza.
 For clarification purposes some visualizations are added.
-![Descriptive Analysis](<screenshots/Descriptive Analysis.png>)</br >
+![Descriptive Analysis](<screenshots/Descriptive Analysistable.png>)</br >
 ![Histogram 65+ Influenza deaths](<screenshots/Histogram 65+ Influenza deaths.png>)</br >
 
 ## Correlations
