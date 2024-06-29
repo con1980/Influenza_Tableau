@@ -67,6 +67,38 @@ In this example below the "Census_population_transformed_202101" data set is sho
 After cleaning and integrity checks are excecuted its time to ontegrate the two cleaned data sets "Influenza deaths" and "Population" with eachother so they can be used in further Analysis and visualizations.
 Before the integration can be executed a data mapping has to be done for evaluating on which variable to combine the two data sets.
 ![Data integration](<screenshots/Data integration.png>)</br >
+To look at the fully integrated data set see here [fully integrated data set 'Influenza deaths' and 'Population'](</1.7_Task_Data Integration.xlsx>)
+
+# 5. Analysis
+## Descriptive Analysis
+In this section we will dive deeper in the descriptive analysis. The main reason herefore is to
+test the hypothesis on its significance and confirmation of its valuation. In the table below some variables are shown which are the basis to start testing the hypothesis.
+Our Hypothesis is: Elderly have a higher chance of dying from Influenza (If 65+ years old then higher chance of dying from Influenza.
+For clarification purposes some visualizations are added.
+![Descriptive Analysis](<screenshots/Descriptive Analysis.png>)</br >
+![Histogram 65+ Influenza deaths](<screenshots/Histogram 65+ Influenza deaths.png>)</br >
+
+## Correlations
+Below the correlation factor between 'Influenza deaths 65+' and 'Population of 65+'. it shows the strenth ot weakness of the correlation between these two variables.
+A correlation coefficient which is close to 1 means that the data has a very strong correlation to eachother.
+
+![Histogram 65+ Influenza deaths](<screenshots/Histogram 65+ Influenza deaths.png>)</br >
+To understand the table above herewith a visualization of the relationship between the two
+variables “Influenza deaths of 65+” and “Population of 65+”.</br >
+![Scatterplot population 65+ and Influenza deaths 65+](<screenshots/scatterplot correlation.png>)</br >
+
+## T-test implementation
+After implementing a t-test the outcome of a p-value of 4.886R-195, which is the closest you can get
+to 0 and smaller than the significance level Alpha of 0.05 we can conclude that we can reject our
+null hypothesis. In other words we can say with a confidence of 100% that elderly have a much
+higher chance of dying from Influenza than other age groups.
+![t-test implementation](<screenshots/t-test implementation.png>)</br >
+
+
+
+
+
+
 
 
 
