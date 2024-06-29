@@ -67,6 +67,7 @@ In this example below the "Census_population_transformed_202101" data set is sho
 ### Data integration
 After cleaning and integrity checks are excecuted its time to ontegrate the two cleaned data sets "Influenza deaths" and "Population" with eachother so they can be used in further Analysis and visualizations.
 Before the integration can be executed a data mapping has to be done for evaluating on which variable to combine the two data sets.
+Befor the data can be integrated the age groups in the Influenza deaths data set have to be transposed and the age groups of population data set to be combined in ten year groups.
 ![Data integration](<screenshots/Data integration.png>)</br >
 To look at the fully integrated data set see here [fully integrated data set 'Influenza deaths' and 'Population'](</1.7_Task_Data Integration.xlsx>)
 
